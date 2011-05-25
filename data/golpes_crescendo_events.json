@@ -1,0 +1,25 @@
+{
+ "events": [
+  {
+   "data": null, 
+   "type": "NoteOn", 
+   "time": 1.334
+  }, 
+  {
+   "data": null, 
+   "type": "NoteOn", 
+   "time": 0.494
+  }, 
+  {
+   "data": null, 
+   "type": "NoteOn", 
+   "time": 2.186
+  }, 
+  {
+   "data": null, 
+   "type": "NoteOn", 
+   "time": 3.076
+  }
+ ], 
+ "filename": "golpes_crescendo.wav"
+}
